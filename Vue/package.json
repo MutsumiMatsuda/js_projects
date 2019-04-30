@@ -1,0 +1,11 @@
+{
+  "name": "Vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MutsumiMatsuda <matsuda_mutsumi@r3.dion.ne.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
